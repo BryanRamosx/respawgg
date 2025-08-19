@@ -8,7 +8,7 @@ Aplicativo em **React Native (JavaScript)** com duas telas principais:
 ---
 
 ## 🚧 Status do Projeto
-> Projeto em desenvolvimento — até o momento implementadas apenas as telas **splash** e **login**.  
+> Projeto em desenvolvimento — até o momento implementadas apenas as telas **splash**, **login** e **Home**.  
 
 ---
 
@@ -22,6 +22,11 @@ Aplicativo em **React Native (JavaScript)** com duas telas principais:
 ![Login Screen]
 
 <img width="502" height="980" alt="2025-08-19_07-49-42" src="https://github.com/user-attachments/assets/de123dc4-aa00-402c-985b-059ff8cd7e89" />
+
+
+![Home Screen]
+
+<img width="439" height="955" alt="2025-08-19_09-33-22" src="https://github.com/user-attachments/assets/330430eb-36bd-4b91-9677-99efb794f9ec" />
 
 ---
 
