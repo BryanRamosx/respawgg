@@ -3,7 +3,8 @@
 Aplicativo em **React Native (JavaScript)** com duas telas principais:
 
 1. **Splash Screen** – tela de apresentação do projeto, exibindo o nome *RESPAWGG!* e a assinatura do criador. Após alguns segundos, redireciona para o login.  
-2. **Login Screen** – tela inicial para autenticação de usuários.  
+2. **Login Screen** – tela inicial para autenticação de usuários.
+3. **HomeScreen** - tela com os elementos de interação básicos para o usuário interagir: Ofertas, favoritos, menus etc.
 
 ---
 
